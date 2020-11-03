@@ -1,0 +1,20 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# os cruft
+.DS_Store
+*.backup
+*.plan
+*.tfp
+*/debug.tmp
+.env*
+**/*[sS][eE][cC][rR][eE][tT]*.*
+*.swp
+*~
+
+# tool cruft
+*.tool-versions
