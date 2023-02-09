@@ -17,7 +17,7 @@ This ensures no one breaks the dashboard lit up on the operations wall.
 GithubActions enforces this check via:
 
 ```yaml
-name: gh-actions/tf-datadog
+name: tf-datadog-dash20181203
 on:
   pull_request:
     branches:
